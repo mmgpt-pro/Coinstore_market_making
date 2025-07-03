@@ -70,6 +70,6 @@ Telegram: t.me/mmgpt_pro
 
 website: mmgpt.in
 
-Bot prices start from 500$ to 1500$.
+Bot prices start from 1500$ to 3500$.
 
 MMGPT - Liquidity Made Smarter.
